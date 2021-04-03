@@ -58,5 +58,5 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com
+Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com
 
