@@ -38,7 +38,6 @@ This is an example for an API that uses GraphQL and JWT Authentication, followin
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [GraphQL](https://graphql.org/)
 * [JWT Authentication](https://jwt.io/)
 * [PostgreSQL](https://www.postgresql.org/)
