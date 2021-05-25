@@ -39,6 +39,7 @@ This is an example for an API that uses GraphQL and JWT Authentication, followin
 ### Built With
 
 * [GraphQL](https://graphql.org/)
+* [TypeORM](https://typeorm.io/#/)
 * [JWT Authentication](https://jwt.io/)
 * [PostgreSQL](https://www.postgresql.org/)
 
